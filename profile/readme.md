@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/JL-logo.png" alt="JLAudio logo" width="280">
+<img src="../assets/JL-logo.png" alt="JLAudio logo" width="280">
 
 # JLAudio
 
