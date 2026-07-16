@@ -2,7 +2,7 @@
 
 <img src="../assets/JL-logo.png" alt="JLAudio logo" width="280">
 
-# JLAudio
+# JL Audio
 
 ### Practical tools for modern mixing engineers
 
