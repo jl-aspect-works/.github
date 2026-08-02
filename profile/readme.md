@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/JL_rounded_512x512.png" alt="JL Aspect Works logo" width="260">
+<img src="../assets/JL_rounded_512x512.png" alt="JL Aspect Works logo" width="260">
 
 # JL Aspect Works
 
@@ -80,7 +80,7 @@ Sessions become projects. Projects become revisions. Revisions become deliveries
 ---
 
 <h2>
-  <img src="./assets/JL_rounded_512x512.png" alt="" width="30" align="center">
+  <img src="../assets/JL_rounded_512x512.png" alt="" width="30" align="center">
   JL Mixing Studio
 </h2>
 
