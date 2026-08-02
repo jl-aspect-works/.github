@@ -93,7 +93,7 @@ Desktop software for managing clients, projects, revisions, metadata, and delive
 ---
 
 <h2>
-  <img src="./assets/JL_rounded_512x512.png" alt="" width="30" align="center">
+  <img src="../assets/JL_rounded_512x512.png" alt="" width="30" align="center">
   JL Mixing Automation
 </h2>
 
