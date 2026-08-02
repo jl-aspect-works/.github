@@ -1,221 +1,142 @@
 <div align="center">
 
-<img src="../assets/JL_rounded_512x512.png" alt="JLAudio logo" width="280">
+<img src="./assets/JL_rounded_512x512.png" alt="JL Aspect Works logo" width="260">
 
-# JL Audio
+# JL Aspect Works
 
-### Open-source tools for modern mixing engineers
+### Intelligent tools for modern recording and mixing studios
 
-**Organize sessions. Automate repetitive work. Build better audio tools.**
-
-JLAudio develops an open ecosystem of practical software for small studios,
-home studios, independent mix engineers, and audio developers who want
-professional workflows without unnecessary complexity.
+**Studio-aware, open-source software that brings structure, consistency, and intelligence to everyday studio workflows.**
 
 <br>
 
-[![JL Mixing Automation](https://img.shields.io/badge/JL_Mixing_Automation-Explore-58B89A?style=for-the-badge)](https://github.com/JLAudio/jl-mixing)
-[![JL Mixing Studio](https://img.shields.io/badge/JL_Mixing_Studio-Explore-58B89A?style=for-the-badge)](https://github.com/JLAudio/jl-mixing-studio)
-[![JL Audio Plugin Suite](https://img.shields.io/badge/JL_Audio_Plugin_Suite-Explore-58B89A?style=for-the-badge)](https://github.com/JLAudio/jl-plugin-suite)
+<table>
+<tr>
+<td align="center" width="50%">
+
+### JL Mixing Studio
+
+**Desktop Application**
+
+[![Open JL Mixing Studio](https://img.shields.io/badge/Open-JL_Mixing_Studio-2F2F2F?style=for-the-badge)](https://github.com/JLAudio/jl-mixing-studio)
+
+</td>
+<td align="center" width="50%">
+
+### JL Mixing Automation
+
+**CLI Engine**
+
+[![Open JL Mixing Automation](https://img.shields.io/badge/Open-JL_Mixing_Automation-2F2F2F?style=for-the-badge)](https://github.com/JLAudio/jl-mixing)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### Engineering
+
+**Architecture & Standards**
+
+[![Open Engineering](https://img.shields.io/badge/Open-Engineering-2F2F2F?style=for-the-badge)](https://github.com/JLAudio/engineering)
+
+</td>
+<td align="center" width="50%">
+
+### Brand Assets
+
+**Identity & Design System**
+
+[![Brand Assets](https://img.shields.io/badge/Brand_Assets-Coming_Soon-777777?style=for-the-badge)](#brand-assets)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center"><strong>Current Projects</strong><br>2</td>
+<td align="center"><strong>Platforms</strong><br>macOS · Windows · CLI</td>
+<td align="center"><strong>License</strong><br>Apache 2.0</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Built for the Working Engineer
+## What We Build
 
-Running a studio involves more than moving faders.
+Running a studio involves far more than recording audio.
 
-Files need to be organized. Client deliveries need to be checked. Revisions
-need to be tracked. Mixes need to be approved, packaged, and recalled months
-or years later.
+Sessions become projects. Projects become revisions. Revisions become deliveries.
 
-JLAudio develops tools that make those jobs more structured, repeatable, and
-dependable—while keeping the engineer in control.
+**JL Aspect Works** develops practical software that understands those relationships—helping engineers organize their work, automate repetitive tasks, and focus on making great records.
 
-Together, these projects form an integrated ecosystem that supports the entire
-mixing workflow—from project organization to studio management to audio
-processing.
-
-Our projects currently focus on:
-
-- **Studio workflow automation**
-- **Studio management software**
-- **Professional audio plug-in development**
+> **Build tools that understand the way real studios work.**
 
 ---
 
-# 🎚️ JL Mixing Automation
+<h2>
+  <img src="./assets/JL_rounded_512x512.png" alt="" width="30" align="center">
+  JL Mixing Studio
+</h2>
 
-[**JL Mixing Automation**](https://github.com/JLAudio/jl-mixing) is a command-line workflow system for organizing and managing mixing projects.
+Desktop software for managing clients, projects, revisions, metadata, and deliveries through a studio-aware workspace.
 
-It creates a consistent studio structure for clients, projects, revisions,
-approvals, deliveries, and recall information.
+**Windows · macOS**
 
-### What It Helps You Do
-
-- Create standardized client and mix-project folders
-- Preserve the original client delivery
-- Validate incoming audio files
-- Track project and revision status
-- Manage mix approvals
-- Build repeatable final-delivery packages
-- Maintain recall notes and project metadata
-- Reduce forgotten steps and inconsistent folder structures
-
-### Example Workflow
-
-```text
-Create studio
-    ↓
-Create client
-    ↓
-Create mix project
-    ↓
-Validate client files
-    ↓
-Prepare and mix
-    ↓
-Create revisions
-    ↓
-Approve the final mix
-    ↓
-Package client delivery
-    ↓
-Complete and retain project metadata
-```
-
-### Design Philosophy
-
-JL Mixing Automation is intentionally:
-
-- **DAW-agnostic** — use Logic Pro, Pro Tools, Reaper, Cubase, Studio One, or another DAW
-- **Non-destructive** — original client files remain protected
-- **Metadata-driven** — project state is recorded instead of inferred from folder names
-- **Repeatable** — each project follows the same dependable workflow
-- **Engineer-controlled** — automation assists the process without taking ownership away from the user
-
-➡️ **[View the JL Mixing Automation repository](https://github.com/JLAudio/jl-mixing)**
+[![Open Repository](https://img.shields.io/badge/Open-Repository-2F2F2F?style=flat-square)](https://github.com/JLAudio/jl-mixing-studio)
 
 ---
 
-# 🎛️ JL Mixing Studio
+<h2>
+  <img src="./assets/JL_rounded_512x512.png" alt="" width="30" align="center">
+  JL Mixing Automation
+</h2>
 
-[**JL Mixing Studio**](https://github.com/JLAudio/jl-mixing-studio) is a modern desktop application that brings the JL Mixing workflow into a visual, studio-aware environment.
+A command-line workflow engine for structured, repeatable studio operations.
 
-Built on top of the concepts introduced by JL Mixing Automation, it provides an intuitive interface for managing clients, projects, revisions, deliveries, and studio resources while remaining open, transparent, and engineer-focused.
+**Cross-platform CLI**
 
-### What It Helps You Do
-
-- Manage clients and projects from a single dashboard
-- Browse active and completed work visually
-- Launch and organize mixing sessions quickly
-- Track revisions, approvals, and deliveries
-- View project status at a glance
-- Access studio resources without memorizing commands
-- Reduce administrative overhead while staying organized
-
-### Planned Areas of Development
-
-```text
-Dashboard         Active projects · Recent activity · Studio overview
-Project Manager   Clients · Mixes · Revisions · Deliveries
-Studio Tools      File validation · Workflow automation · Reporting
-Future Features   Scheduling · Recall · Asset management
-```
-
-### Design Philosophy
-
-JL Mixing Studio is intentionally:
-
-- **Workflow-first** — designed around how real mix engineers work
-- **Studio-aware** — understands projects, clients, revisions, and studio organization
-- **Visual** — makes project management faster without hiding important details
-- **Open** — works alongside the rest of the JL Mixing ecosystem
-- **Built for growth** — designed as the foundation for future studio-management capabilities
-
-JL Mixing Studio is designed to become the central workspace for engineers using the JL Mixing ecosystem, combining workflow automation with an efficient graphical interface.
-
-➡️ **[View the JL Mixing Studio repository](https://github.com/JLAudio/jl-mixing-studio)**
+[![Open Repository](https://img.shields.io/badge/Open-Repository-2F2F2F?style=flat-square)](https://github.com/JLAudio/jl-mixing)
 
 ---
 
-# 🔌 JL Audio Plugin Suite
+## Design Philosophy
 
-[**JL Audio Plugin Suite**](https://github.com/JLAudio/jl-plugin-suite) is a growing collection of audio effects and reusable plug-in technology for modern digital audio workstations.
+**Practical over flashy.**
 
-The project is being developed with an emphasis on sound quality, understandable design, automated testing, and long-term maintainability.
+**Professional without unnecessary complexity.**
 
-### Project Goals
+**Open by default.**
 
-- Create useful tools for mixing and music production
-- Support Logic Pro and other major DAWs
-- Build reusable DSP and user-interface components
-- Maintain reliable macOS and Windows build pipelines
-- Document the engineering decisions behind each processor
-- Make audio plug-in development easier to understand
+**Built for real engineers and real studios.**
 
-### Planned Areas of Development
-
-```text
-Dynamics       Compression · Limiting · Level Control
-Time Effects   Delay · Echo · Modulation
-Tone Shaping   Filtering · Saturation · Equalization
-Utilities      Metering · Gain Staging · Stereo Tools
-```
-
-The suite is also an exploration of how professional audio software can be built using clear architecture, maintainable C++, JUCE, automated testing, and modern CI/CD practices.
-
-➡️ **[View the JL Audio Plugin Suite repository](https://github.com/JLAudio/jl-plugin-suite)**
+**Designed to grow with the workflow.**
 
 ---
 
-# Which Project Is for You?
+## Open Source
 
-| Project | Best For | Primary Focus |
-|---------|----------|---------------|
-| [JL Mixing Automation](https://github.com/JLAudio/jl-mixing) | Engineers who prefer scripting and automation | Command-line workflow automation |
-| [JL Mixing Studio](https://github.com/JLAudio/jl-mixing-studio) | Mix engineers and studio owners | Visual studio and project management |
-| [JL Audio Plugin Suite](https://github.com/JLAudio/jl-plugin-suite) | Producers, engineers, and audio developers | Audio processing plug-ins and reusable DSP technology |
+JL Aspect Works is committed to building professional studio software using open technologies whenever practical.
+
+Ideas, bug reports, feature requests, testing, and contributions from the recording and mixing community are welcome.
 
 ---
 
-# Our Approach
+<a id="brand-assets"></a>
 
-## Practical Before Flashy
+## Brand Assets
 
-A tool should solve a real studio problem before adding complexity.
-
-## Reliable Before Clever
-
-Predictable behavior, clear project state, automated testing, and recoverable workflows matter more than novelty.
-
-## Professional Without Being Overbuilt
-
-Independent engineers deserve professional-quality tools that do not require an enterprise-sized studio or development team.
-
-## Open and Understandable
-
-Code, documentation, workflows, and technical decisions should be clear enough to inspect, learn from, and improve.
-
----
-
-# Follow the Projects
-
-Watch or star the repositories to follow development:
-
-- ⭐ [JL Mixing Automation](https://github.com/JLAudio/jl-mixing)
-- ⭐ [JL Mixing Studio](https://github.com/JLAudio/jl-mixing-studio)
-- ⭐ [JL Audio Plugin Suite](https://github.com/JLAudio/jl-plugin-suite)
-
-Bug reports, workflow suggestions, documentation improvements, and thoughtful contributions are welcome through each repository's issue tracker.
+The JL Aspect Works identity system, logo masters, product lockups, GitHub graphics, and usage standards will be maintained in the forthcoming `jl-brand` repository.
 
 ---
 
 <div align="center">
 
-## One workflow. Three projects. Endless better mixes.
-
-**JLAudio — open-source tools built around the way engineers actually work.**
+### Engineering better studio workflows.
 
 </div>
