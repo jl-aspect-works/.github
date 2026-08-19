@@ -1,8 +1,10 @@
-<div align="center">
-
-<img src="../assets/JL_rounded_512x512.png" alt="JL Aspect Works logo" width="260">
-
-# JL Aspect Works
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jl-aspect-works/jl-brand/main/company-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jl-aspect-works/jl-brand/main/company-logo-light.png">
+    <img alt="JL Mixing Automation by JL Aspect Works" width="420" src="https://raw.githubusercontent.com/jl-aspect-works/jl-brand/main/company-logo-light.png">
+  </picture>
+</p>
 
 ### Intelligent tools for modern recording and mixing studios
 
