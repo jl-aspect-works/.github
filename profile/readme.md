@@ -1,6 +1,6 @@
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jl-aspect-works/jl-brand/main/company-logo-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jl-aspect-works/jl-brand/main/compay-logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jl-aspect-works/jl-brand/main/company-logo-light.png">
     <img alt="JL Mixing Automation by JL Aspect Works" width="420" src="https://raw.githubusercontent.com/jl-aspect-works/jl-brand/main/company-logo-light.png">
   </picture>
@@ -20,7 +20,7 @@
 
 **Desktop Application**
 
-[![Open JL Mixing Studio](https://img.shields.io/badge/Open-JL_Mixing_Studio-2F2F2F?style=for-the-badge)](https://github.com/JLAudio/jl-mixing-studio)
+[![Open JL Mixing Studio](https://img.shields.io/badge/Open-JL_Mixing_Studio-2F2F2F?style=for-the-badge)](https://github.com/jl-aspect-works/jl-mixing-studio)
 
 </td>
 <td align="center" width="50%">
@@ -29,7 +29,7 @@
 
 **CLI Engine**
 
-[![Open JL Mixing Automation](https://img.shields.io/badge/Open-JL_Mixing_Automation-2F2F2F?style=for-the-badge)](https://github.com/JLAudio/jl-mixing)
+[![Open JL Mixing Automation](https://img.shields.io/badge/Open-JL_Mixing_Automation-2F2F2F?style=for-the-badge)](https://github.com/jl-aspect-works/jl-mixing-automation)
 
 </td>
 </tr>
@@ -40,7 +40,7 @@
 
 **Architecture & Standards**
 
-[![Open Engineering](https://img.shields.io/badge/Open-Engineering-2F2F2F?style=for-the-badge)](https://github.com/JLAudio/engineering)
+[![Open Engineering](https://img.shields.io/badge/Open-Engineering-2F2F2F?style=for-the-badge)](https://github.com/jl-aspect-works/engineering)
 
 </td>
 <td align="center" width="50%">
@@ -49,7 +49,7 @@
 
 **Identity & Design System**
 
-[![Brand Assets](https://img.shields.io/badge/Brand_Assets-Coming_Soon-777777?style=for-the-badge)](#brand-assets)
+[![Brand Assets](https://img.shields.io/badge/Open-Brand_Assets-2F2F2F?style=for-the-badge)](https://github.com/jl-aspect-works/jl-brand)
 
 </td>
 </tr>
@@ -64,8 +64,6 @@
 <td align="center"><strong>License</strong><br>Apache 2.0</td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -90,7 +88,7 @@ Desktop software for managing clients, projects, revisions, metadata, and delive
 
 **Windows · macOS**
 
-[![Open Repository](https://img.shields.io/badge/Open-Repository-2F2F2F?style=flat-square)](https://github.com/JLAudio/jl-mixing-studio)
+[![Open Repository](https://img.shields.io/badge/Open-Repository-2F2F2F?style=flat-square)](https://github.com/jl-aspect-works/jl-mixing-studio)
 
 ---
 
@@ -103,7 +101,7 @@ A command-line workflow engine for structured, repeatable studio operations.
 
 **Cross-platform CLI**
 
-[![Open Repository](https://img.shields.io/badge/Open-Repository-2F2F2F?style=flat-square)](https://github.com/JLAudio/jl-mixing)
+[![Open Repository](https://img.shields.io/badge/Open-Repository-2F2F2F?style=flat-square)](https://github.com/jl-aspect-works/jl-mixing-automation)
 
 ---
 
@@ -133,7 +131,7 @@ Ideas, bug reports, feature requests, testing, and contributions from the record
 
 ## Brand Assets
 
-The JL Aspect Works identity system, logo masters, product lockups, GitHub graphics, and usage standards will be maintained in the forthcoming `jl-brand` repository.
+The available company and product PNG graphics are maintained in [jl-brand](https://github.com/jl-aspect-works/jl-brand). Its README identifies the current asset inventory.
 
 ---
 
